@@ -6,6 +6,9 @@ This project is a Morphological Analyzer built with Python, utilizing NLP and ma
 Requirements
 The project uses various libraries, including NLTK, pandas, TensorFlow, NumPy, and scikit-learn. The dataset for this project is stored in an Excel file, complete words.xlsx.
 
+Dataset:
+Complete words dataset of excel format is used and uplaoded in main branch.
+
 Main Features
 Data Processing: Reads word data from the Excel file and applies tokenization, part-of-speech tagging, and other NLP preprocessing.
 Model: Uses a neural network model with Bidirectional LSTM layers for morphological analysis.
